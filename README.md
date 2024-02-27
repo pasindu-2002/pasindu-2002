@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pasindu Aluthwalahewa</h1>
-<h3 align="center">Studying Software Engineering</h3>
+<h1 align="center">Pasindu Aluthwalahewa</h1>
+<h3 align="center">BSc (Hons) Computer Science (UG)</h3>
 
 - 👨‍💻 All of my projects are available at [https://pasindualuthwalahewa.me/](https://pasindualuthwalahewa.me/)
 
@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pasindu aluthwalahewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu aluthwalahewa" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/pasindu aluthwahewa @aluthwalahewapa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="pasindu aluthwahewa @aluthwalahewapa1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pasindu-aluthwalahewa-471b6b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pasindu-aluthwalahewa-471b6b229/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/aluthwalahewapa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/aluthwalahewapa1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
