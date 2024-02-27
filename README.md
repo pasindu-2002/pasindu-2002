@@ -1,6 +1,9 @@
 <h1 align="center">Pasindu Aluthwalahewa</h1>
 <h3 align="center">BSc (Hons) Computer Science (UG)</h3>
 
+I'm Pasindu Aluthwalahewa, a dedicated software engineering student. I am passionate about coding and problem-solving.
+Eager to apply my theoretical knowledge in a practical setting, I bring enthusiasm and a commitment to excellence in software development.
+
 - 👨‍💻 All of my projects are available at [https://pasindualuthwalahewa.me/](https://pasindualuthwalahewa.me/)
 
 - 📝 I regularly write articles on [https://blog.pasindualuthwalahewa.me/](https://blog.pasindualuthwalahewa.me/)
