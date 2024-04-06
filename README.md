@@ -79,7 +79,7 @@ Eager to apply my theoretical knowledge in a practical setting, I bring enthusia
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pasindu-aluthwalahewa-471b6b229/)
 [![Website](https://img.shields.io/badge/-Website-0088CC?style=flat&logo=google-chrome&logoColor=white)](https://www.prasadkgamage.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-1877F2?style=flat&logo=hackerRank&logoColor=white)](https://www.facebook.com/thilaacreations)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-1877F2?style=flat&logo=hackerRank&logoColor=green)](https://www.facebook.com/thilaacreations)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prasadgamage)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/prasad_k_gamage_97/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/thilaacreations)
