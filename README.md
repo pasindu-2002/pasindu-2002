@@ -58,12 +58,6 @@ Eager to apply my theoretical knowledge in a practical setting, I bring enthusia
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 
-### GitHub Stats:
-
-![Prasad's GitHub stats](https://github.com/pasindu-2002)
-
-![Top Langs](https://github.com/pasindu-2002)
-
 ### Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pasindu-aluthwalahewa-471b6b229/)
