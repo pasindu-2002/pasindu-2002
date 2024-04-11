@@ -60,7 +60,7 @@ Eager to apply my theoretical knowledge in a practical setting, I bring enthusia
 
 ### Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pasindu-aluthwalahewa-471b6b229/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 [![Website](https://img.shields.io/badge/-Website-0088CC?style=flat&logo=google-chrome&logoColor=white)](https://pasindualuthwalahewa.me/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aluthwalahewapa1)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://www.hackerrank.com/profile/aluthwalahewapa1)
