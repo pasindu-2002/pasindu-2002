@@ -8,7 +8,7 @@ Eager to apply my theoretical knowledge in a practical setting, I bring enthusia
 
 📱 Additionally, I have expertise in mobile application development for both iOS and Android platforms, leveraging the power of React Native & Flutter to build cross-platform apps that deliver seamless user experiences.
 
-🌐 Furthermore, I have a keen interest and hands-on experience in web development. I have honed my skills in front-end technologies such as HTML, CSS, JavaScript, and Bootstrap, crafting engaging user interfaces that prioritize usability and performance. On the back end, I am proficient in building scalable and secure web services using PHP, Java, Spring Boot, and Postman APIs.
+🌐 Furthermore, I have a keen interest and hands-on experience in web development. I have honed my skills in front-end technologies such as HTML, CSS, JavaScript, Bootstrap and WordPress crafting engaging user interfaces that prioritize usability and performance. On the back end, I am proficient in building scalable and secure web services using PHP, Java, Spring Boot, and Postman APIs.
 
 🌟 Let's connect and collaborate on exciting projects together!
 
