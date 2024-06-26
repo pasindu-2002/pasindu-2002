@@ -4,7 +4,7 @@
 I'm Pasindu Aluthwalahewa, a dedicated software engineering student. I am passionate about coding and problem-solving.
 Eager to apply my theoretical knowledge in a practical setting, I bring enthusiasm and a commitment to excellence in software development.
 
-💻 Specializing in Java programming, I love diving deep into the world of software development to create robust and efficient applications.
+💻 Specializing in Java and python programming, I love diving deep into the world of software development to create robust and efficient applications.
 
 📱 Additionally, I have expertise in mobile application development for both iOS and Android platforms, leveraging the power of React Native & Flutter to build cross-platform apps that deliver seamless user experiences.
 
