@@ -1,7 +1,7 @@
 <h1 align="center">Pasindu Aluthwalahewa</h1>
 <h3 align="center">BSc (Hons) Computer Science (UG)</h3>
 
-<img src="https://github.com/pasindu-2002/pasindu-2002/assets/87941322/055a5708-908e-460f-8b52-32a489792d2f" width= 45% height= 30% alt="Image 4">
+<img src="https://github.com/pasindu-2002/pasindu-2002/assets/87941322/5656dfe5-1d4d-48d6-8149-83f843f4e95f" width= 45% height= 30% alt="Image 4">
 
 I'm Pasindu Aluthwalahewa, a dedicated software engineering student. I am passionate about coding and problem-solving.
 Eager to apply my theoretical knowledge in a practical setting, I bring enthusiasm and a commitment to excellence in software development.
