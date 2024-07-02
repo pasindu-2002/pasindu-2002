@@ -5,7 +5,7 @@
   <img src="https://github.com/pasindu-2002/pasindu-2002/assets/87941322/82303a4f-aa80-4227-97a0-dff4677620d9" width="45%" height="30%" alt="Image 4">
 </div>
 
-
+<br></br>
 I'm Pasindu Aluthwalahewa, a dedicated software engineering student. I am passionate about coding and problem-solving.
 Eager to apply my theoretical knowledge in a practical setting, I bring enthusiasm and a commitment to excellence in software development.
 
