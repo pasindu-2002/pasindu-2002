@@ -15,6 +15,8 @@ Eager to apply my theoretical knowledge in a practical setting, I bring enthusia
 
 🌐 Furthermore, I have a keen interest and hands-on experience in web development. I have honed my skills in front-end technologies such as HTML, CSS, JavaScript, Bootstrap and WordPress crafting engaging user interfaces that prioritize usability and performance. On the back end, I am proficient in building scalable and secure web services using PHP, Java, Spring Boot, and REST APIs.
 
+🤖 I am also delving into the field of machine learning, developing skills in Python to build and deploy ML models. My focus is on applying ML techniques to solve real-world problems and enhance the capabilities of software applications.
+
 🌟 Let's connect and collaborate on exciting projects together!
 
 - 👨‍💻 All of my projects are available at [https://pasindualuthwalahewa.me/](https://pasindualuthwalahewa.me/)
