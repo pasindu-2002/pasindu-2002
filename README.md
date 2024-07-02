@@ -2,7 +2,7 @@
 <h3 align="center">BSc (Hons) Computer Science (UG)</h3>
 
 <div align="center">
-  <img src="https://github.com/pasindu-2002/pasindu-2002/assets/87941322/5656dfe5-1d4d-48d6-8149-83f843f4e95f" width="45%" height="30%" alt="Image 4">
+  <img src="https://github.com/pasindu-2002/pasindu-2002/assets/87941322/c832e286-2ed8-4d63-ad7c-310d560117c8" width="45%" height="30%" alt="Image 4">
 </div>
 
 
