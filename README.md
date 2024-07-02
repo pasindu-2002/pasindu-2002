@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋, I'mPasindu Aluthwalahewa</h1>
+<h1 align="center"> Hello 👋, I'm Pasindu Aluthwalahewa</h1>
 <h3 align="center">BSc (Hons) Computer Science (UG)</h3>
 
 <div align="center">
