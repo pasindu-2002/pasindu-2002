@@ -19,7 +19,7 @@ Eager to apply my theoretical knowledge in a practical setting, I bring enthusia
 
 🌟 Let's connect and collaborate on exciting projects together!
 
-- 👨‍💻 All of my projects are available at [https://pasindualuthwalahewa.me/](https://pasindualuthwalahewa.me/)
+- 👨‍💻 All of my projects are available at [https://pasindualuthwalahewa.me/](https://pasindu.ruucinema.lk/)
 
 - 📝 I regularly write articles on [https://blog.pasindualuthwalahewa.me/](https://blog.pasindualuthwalahewa.me/)
 
