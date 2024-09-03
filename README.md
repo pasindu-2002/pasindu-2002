@@ -21,7 +21,7 @@ Eager to apply my theoretical knowledge in a practical setting, I bring enthusia
 
 - 👨‍💻 All of my projects are available at [https://pasindualuthwalahewa.me/](https://pasindu.ruucinema.lk/)
 
-- 📝 I regularly write articles on [https://blog.pasindualuthwalahewa.me/](https://blog.pasindualuthwalahewa.me/)
+
 
 - 📫 How to reach me **pasindualuthwalahewa@gmail.com**
 
