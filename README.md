@@ -1,21 +1,18 @@
 <h1 align="center"> Hello 👋, I'm Pasindu Aluthwalahewa</h1>
-<h3 align="center">BSc (Hons) Computer Science (UG)</h3>
+<!-- <h3 align="center">BSc (Hons) Computer Science (UG)</h3>
 
 <div align="center">
   <img src="https://github.com/pasindu-2002/pasindu-2002/assets/87941322/82303a4f-aa80-4227-97a0-dff4677620d9" width="45%" height="30%" alt="Image 4">
-</div>
+</div> -->
 
 <br></br>
-I'm Pasindu Aluthwalahewa, a dedicated software engineering student. I am passionate about coding and problem-solving.
-Eager to apply my theoretical knowledge in a practical setting, I bring enthusiasm and a commitment to excellence in software development.
+👋 Hello! I'm Pasindu Aluthwalahewa
 
-💻 Specializing in Java, PHP, JavaScript and Python programming, I love diving deep into the world of software development to create robust and efficient applications.
+I'm a passionate software developer with expertise across multiple languages and frameworks, including TypeScript, JavaScript, Java, and C#. I specialize in building responsive web and mobile applications with React, Spring Boot, React Native, and Flutter.
 
-📱 I have good expertise in mobile application development for both iOS and Android platforms, leveraging the power of React Native & Flutter to build cross-platform apps that deliver seamless user experiences. I excel in building native apps using Java, Kotlin, Swift
+💻 I have a strong foundation in SQL and NoSQL databases, which enables me to create efficient, scalable applications. I'm also well-versed in AI and Machine Learning, continuously expanding my knowledge to integrate intelligent solutions into my projects.
 
-🌐 Furthermore, I have a keen interest and hands-on experience in web development. I have honed my skills in front-end technologies such as HTML, CSS, JavaScript, Bootstrap and WordPress crafting engaging user interfaces that prioritize usability and performance. On the back end, I am proficient in building scalable and secure web services using PHP, Java, Spring Boot, and REST APIs.
-
-🤖 I am also delving into the field of machine learning, developing skills in Python to build and deploy ML models. My focus is on applying ML techniques to solve real-world problems and enhance the capabilities of software applications.
+I'm a big believer in open-source development and enjoy contributing to the community, sharing what I know, and learning from others. Let's build something amazing together! 🚀
 
 🌟 Let's connect and collaborate on exciting projects together!
 
