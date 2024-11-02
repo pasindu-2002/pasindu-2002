@@ -1,8 +1,6 @@
 <h1 align="center"> Hello 👋, I'm Pasindu Aluthwalahewa</h1>
 <h3 align="center">Trainee Software Engineer at 99x</h3>
 
-<br></br>
-
 I'm a passionate software developer with expertise across multiple languages and frameworks, including TypeScript, JavaScript, Java, and C#. I specialize in building responsive web and mobile applications with React, Spring Boot, React Native, and Flutter.
 
 💻 I have a strong foundation in SQL and NoSQL databases, which enables me to create efficient, scalable applications. I'm also well-versed in AI and Machine Learning, continuously expanding my knowledge to integrate intelligent solutions into my projects.
