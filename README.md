@@ -1,7 +1,7 @@
 <h1 align="center"> Hello 👋, I'm Pasindu Aluthwalahewa</h1>
-<!-- <h3 align="center">BSc (Hons) Computer Science (UG)</h3>
+<h3 align="center">Trainee Software Engineer at 99x</h3>
 
-<div align="center">
+<-- <div align="center">
   <img src="https://github.com/pasindu-2002/pasindu-2002/assets/87941322/82303a4f-aa80-4227-97a0-dff4677620d9" width="45%" height="30%" alt="Image 4">
 </div> -->
 
