@@ -9,7 +9,7 @@ I'm a big believer in open-source development and enjoy contributing to the comm
 
 🌟 Let's connect and collaborate on exciting projects together!
 
-- 👨‍💻 All of my projects are available at [https://pasindualuthwalahewa.me/](https://pasindu.ruucinema.lk/)
+- 👨‍💻 All of my projects are available at [https://pasinduu.me/](https://pasindu.ruucinema.lk/)
 
 
 
@@ -53,7 +53,7 @@ I'm a big believer in open-source development and enjoy contributing to the comm
 ### Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasindu-aluthwalahewa-471b6b229/)
-[![Website](https://img.shields.io/badge/-Website-0088CC?style=flat&logo=google-chrome&logoColor=white)](https://pasindualuthwalahewa.me/)
+[![Website](https://img.shields.io/badge/-Website-0088CC?style=flat&logo=google-chrome&logoColor=white)](https://pasindualuu.me/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pasindualuthwalahewa/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100029046765112)
 
