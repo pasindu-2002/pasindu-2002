@@ -6,7 +6,6 @@
 </div> -->
 
 <br></br>
-👋 Hello! I'm Pasindu Aluthwalahewa
 
 I'm a passionate software developer with expertise across multiple languages and frameworks, including TypeScript, JavaScript, Java, and C#. I specialize in building responsive web and mobile applications with React, Spring Boot, React Native, and Flutter.
 
