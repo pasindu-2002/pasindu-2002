@@ -9,7 +9,7 @@ I'm a big believer in open-source development and enjoy contributing to the comm
 
 🌟 Let's connect and collaborate on exciting projects together!
 
-- 👨‍💻 All of my projects are available at [https://pasinduu.me/](https://pasindu.ruucinema.lk/)
+- 👨‍💻 All of my projects are available at [https://pasinduu.me/](https://pasinduu.me/)
 
 
 
