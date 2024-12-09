@@ -1,7 +1,7 @@
 <h1 align="center"> Hello 👋, I'm Pasindu Aluthwalahewa</h1>
 <h3 align="center">Trainee Software Engineer at 99x</h3>
 
-I'm a passionate software developer with expertise across multiple languages and frameworks, including TypeScript, JavaScript, Java, and C#. I specialize in building responsive web and mobile applications with React, Spring Boot, React Native, and Flutter.
+I'm a passionate software developer with expertise across multiple languages and frameworks, including TypeScript, JavaScript, Java, and C#. I specialize in building responsive web and mobile applications with React, Angular, .NET, Spring Boot, React Native, and Flutter.
 
 💻 I have a strong foundation in SQL and NoSQL databases, which enables me to create efficient, scalable applications. I'm also well-versed in AI and Machine Learning, continuously expanding my knowledge to integrate intelligent solutions into my projects.
 
@@ -27,14 +27,13 @@ I'm a big believer in open-source development and enjoy contributing to the comm
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/-Oracle%20Database-F80000?style=flat&logo=oracle&logoColor=white)
