@@ -1,11 +1,11 @@
 <h1 align="center"> Hello 👋, I'm Pasindu Aluthwalahewa</h1>
 <!-- <h3 align="center">Trainee Software Engineer at 99x</h3> -->
 
-💻 I'm a passionate software engineer with expertise across multiple languages and frameworks, including TypeScript, Java, C#, Python and more. I specialize in building responsive web and mobile applications using React, Angular, .NET, and Spring Boot.
+💻 I'm a passionate software engineer with a strong focus on R&D and building scalable, AI-driven applications. I specialize in full-stack development using TypeScript, Java, C#, Python, and frameworks like React, Angular, .NET, and Spring Boot.
 
 📊 I have a strong foundation in SQL and NoSQL databases, enabling me to develop efficient, scalable applications. My expertise extends to AI and Machine Learning, where I continuously explore ways to integrate intelligent solutions into my projects.
 
-🤖 I'm also deeply involved in Generative AI and Large Language Models (LLMs), leveraging their capabilities to build innovative AI-driven applications. I stay up to date with the latest advancements in AI to develop and optimize AI-powered solutions.
+🤖 I work extensively in AI and Agentic system architectures, leveraging frameworks such as LangChain, LangGraph, and LLMs to build intelligent, autonomous workflows. My experience includes hands-on development in Generative AI, prompt engineering, and integrating AI into enterprise-ready solutions.
 
 🚀 I believe in open-source development, sharing knowledge with the community, and continuously learning. Feel free to connect and collaborate!
 
