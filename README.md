@@ -3,7 +3,7 @@
 
 I'm a passionate software engineer focused on building scalable, intelligent, and cloud-ready applications that merge full-stack development with AI-driven innovation.
 
-My core tech stack includes .NET, React, and Agentic AI, with hands-on experience in C#, Python, Java, TypeScript, JavaScript, and databases like MS SQL and MongoDB. I design and develop robust applications using React and Angular on the frontend, and .NET, Spring Boot, and FastAPI on the backend.
+My core tech stack includes Agentic AI, .NET, React and Angular, with hands-on experience in C#, Python, Java, TypeScript, JavaScript, and databases like MS SQL and MongoDB. I design and develop robust applications using React and Angular on the frontend, and .NET, Spring Boot, and FastAPI on the backend.
 
 ⚙️ I’m also experienced in containerization and orchestration using Docker and Kubernetes, with practical expertise in deploying and managing applications on Azure and AWS.
 
