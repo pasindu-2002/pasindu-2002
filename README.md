@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://pasinduu.me/](https://pasinduu.me/)
 
 
-- 📫 How to reach me **pasindualuthwalahewa@gmail.com**
+- 📫 How to reach me **pasindue@outlook.com**
 
 
 ### Connect with Me:
