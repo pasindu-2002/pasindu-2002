@@ -1,13 +1,15 @@
 <h1 align="center"> Hello 👋, I'm Pasindu Aluthwalahewa</h1>
 <!-- <h3 align="center">Trainee Software Engineer at 99x</h3> -->
 
-💻 I'm a passionate software engineer with a strong focus on R&D and building scalable, AI-driven applications. I specialize in full-stack development using TypeScript, Java, C#, Python, and frameworks like React, Angular, .NET, and Spring Boot.
+I'm a passionate software engineer focused on building scalable, intelligent, and cloud-ready applications that merge full-stack development with AI-driven innovation.
 
-📊 I have a strong foundation in SQL and NoSQL databases, enabling me to develop efficient, scalable applications. My expertise extends to AI and Machine Learning, where I continuously explore ways to integrate intelligent solutions into my projects.
+My core tech stack includes .NET, React, and Agentic AI, with hands-on experience in C#, Python, Java, TypeScript, JavaScript, and databases like MS SQL and MongoDB. I design and develop robust applications using React and Angular on the frontend, and .NET, Spring Boot, and FastAPI on the backend.
 
-🤖 I work extensively in AI and Agentic system architectures, leveraging frameworks such as LangChain, LangGraph, and LLMs to build intelligent, autonomous workflows. My experience includes hands-on development in Generative AI, prompt engineering, and integrating AI into enterprise-ready solutions.
+⚙️ I’m also experienced in containerization and orchestration using Docker and Kubernetes, with practical expertise in deploying and managing applications on Azure and AWS.
 
-🚀 I believe in open-source development, sharing knowledge with the community, and continuously learning. Feel free to connect and collaborate!
+🤖 My current focus is on Agentic AI systems, where I’m an engineer of xians.ai - an open-source Agentic AI platform for creating, deploying, and managing intelligent workflows. I work with frameworks like LangChain, LangGraph, and LLMs to build autonomous, scalable AI solutions that seamlessly integrate into modern software to enhance user experiences and decision-making.
+
+🚀 As an open-source advocate, I love sharing knowledge, contributing to community-driven projects, and collaborating with developers around the world to push the boundaries of what technology can do.
 
 🌟 Let's connect and collaborate on exciting projects together!
 
